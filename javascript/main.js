@@ -1,6 +1,11 @@
 var errortext="Command not found.<br>Type \"help\" for a list of commands.";
 
+var hometext="Limeboy.github.io v1.0.1<br><br>This is a personal website done in the style of a console.<br>"+
+"Type \"help\" for a list of commmands. Press Enter to execute the command.<br><br>"+
+"<p style=\"font-style: italic; font-size: 15px;\">I have no idea what I am doing, and at this point I am too afraid to ask.</p>";
+
 var helptext=
+"home: displays home message that is also displayed when the website is loaded.<br>"+
 "help: displays this help message.<br>"+
 "info: displays the information of myself.<br>"+
 "github: opens my GitHub profile on a new tab.<br>";
@@ -34,7 +39,8 @@ const text = {
     help: helptext,
     info: infotext,
     github: "GitHub profile has been opened in a new tab.",
-    web: "Website version: 1.0. Repository: "
+    web: "Website version: 1.0. Repository: ",
+    home: hometext
 };
 
 function setrespond()
@@ -58,3 +64,8 @@ document.addEventListener("keypress",function(event)
         setrespond();
     }
 });
+
+function main()
+{
+    document.getElementById("console-output").innerHTML=text["home"];
+}
