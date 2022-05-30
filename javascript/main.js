@@ -9,9 +9,9 @@ var infotext=
 "My username is Limeboy0603. I am currently a year 1 university student in City University of Hong Kong, studying computer science. <br>"+
 "My interests are programing and gaming.<br><br>"+
 "My projects:<br><ul>"+
-"<li>KTaNE modded module: osu! <a href=\"https://github.com/Limeboy0603/ktaneOsu--master\" target=\"_blank\">GitHub</a> <a href=\"https://github.com/Limeboy0603/ktaneOsu-manual\" target=\"_blank\">Manual</a></li>"+
-"<li>KTaNE modded module: Minecraft Cipher <a href=\"https://github.com/Limeboy0603/ktaneMinecraftCipher-master\" target=\"_blank\">GitHub</a> <a href=\"https://github.com/Limeboy0603/ktaneMinecraftCipher--manual\" target=\"_blank\">Manual</a></li>"+
-"<li>KTaNE modded module: Minecraft Parody <a href=\"https://github.com/Limeboy0603/ktaneMinecraftParody-master\" target=\"_blank\">GitHub</a> <a href=\"https://github.com/Limeboy0603/ktaneMinecraftParody-Manual\" target=\"_blank\">Manual</a></li></ul>"+
+"<li>KTaNE modded module: osu! <a href=\"https://github.com/Limeboy0603/ktaneOsu--master\" target=\"_blank\">GitHub</a></li>"+
+"<li>KTaNE modded module: Minecraft Cipher <a href=\"https://github.com/Limeboy0603/ktaneMinecraftCipher-master\" target=\"_blank\">GitHub</a></li>"+
+"<li>KTaNE modded module: Minecraft Parody <a href=\"https://github.com/Limeboy0603/ktaneMinecraftParody-master\" target=\"_blank\">GitHub</a></li></ul>"+
 "My Education:<br><ul>"+
 "<li>2015-2021: Po Leung Kuk Laws Foundation College. Electives: Physics, Chemistry, Information and Communication Technology, Mathematics Module 2 (Algebra and Calculus).</li>"+
 "<li>2021-2022: Year 1 in City University of Hong Kong, Major in Computer Science. GPA: 3.62</li></ul>"+
