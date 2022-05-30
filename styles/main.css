@@ -1,0 +1,36 @@
+body {
+    background: black;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 20px;
+    color: lightgreen;
+}
+
+#command-input {
+    position: sticky;
+    color: lightgreen;
+    top: 0;
+    background: black;
+    width: 100%;
+}
+
+input[type="text"] {
+    background: black;
+    font-size: 20px;
+    color: lightgreen;
+    font-family: "Lucida Console", "Courier New", monospace;
+    border: none;
+    length: 100%;
+}
+
+input:focus {
+    outline: none;
+}
+
+::selection {
+    background: lightgreen;
+    color: black;
+}
+
+a {
+    color: green;
+}
