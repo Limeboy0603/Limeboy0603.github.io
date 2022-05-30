@@ -23,7 +23,7 @@ var infotext=
 "My Academic Achievements: (note: all achievements on or before academic year 2020-2021 are achieved during secondary school education)<br><ul>"+
 "<li>2018-2019 Hong Kong & Macao Mathematical Olympiad Open Contest: Gold Award</li>"+
 "<li>2018-2019 VTC STEM Challenge Cup 2019: STEM Innovation Award</li>"+
-"<li>2018-2019 The Hong Kong Polytechnic University Secondary School Mathematics and Science Competition: Credit</li>"+
+"<li>2018-2019 The Hong Kong Polytechnic University Secondary School Mathematics and Science Competition: Credit in Mathematics</li>"+
 "<li>2019-2020 Asia International Mathematical Olympiad Open Contest: Silver Award</li>"+
 "<li>2020-2021 Hong Kong Olympiad in Informatics: Silver Award</li>"+
 "</ul>"+
