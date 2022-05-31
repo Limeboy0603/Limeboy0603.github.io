@@ -11,8 +11,8 @@ var helptext=
 "github: opens my GitHub profile on a new tab.<br>";
 
 var infotext=
-"My username is Limeboy0603. I am currently a year 1 university student in City University of Hong Kong, studying computer science. <br>"+
-"My interests are programing and gaming.<br><br>"+
+"My username is Limeboy0603. I am currently a year 1 university student in City University of Hong Kong, major in computer science. <br>"+
+"My interest is programing.<br><br>"+
 "My projects:<br><ul>"+
 "<li>KTaNE modded module: osu! <a href=\"https://github.com/Limeboy0603/ktaneOsu--master\" target=\"_blank\">GitHub</a></li>"+
 "<li>KTaNE modded module: Minecraft Cipher <a href=\"https://github.com/Limeboy0603/ktaneMinecraftCipher-master\" target=\"_blank\">GitHub</a></li>"+
@@ -28,12 +28,7 @@ var infotext=
 "<li>2020-2021 Hong Kong Olympiad in Informatics: Silver Award</li>"+
 "</ul>"+
 "Job Experience:<br><ul>"+
-"<li>July-Aug 2021: Data Entry Operator, Toppan Forms (HK) Limited </li>"+
-"</ul>"+
-"My Gaming Achievements:<br><ul>"+
-"<li>Top 5K osu!catch player</li>"+
-"<li>Former Top 1K modern Tetris player</li>"+
-"</ul>";
+"<li>July-Aug 2021: Data Entry Operator, Toppan Forms (HK) Limited </li>";
 
 const text = {
     help: helptext,
