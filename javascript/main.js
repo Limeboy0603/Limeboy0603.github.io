@@ -36,7 +36,7 @@ const text = {
     help: helptext,
     info: infotext,
     github: "GitHub profile has been opened in a new tab.",
-    web: "Website version: 1.0. <a gref=\"https://github.com/Limeboy0603/Limeboy0603.github.io\">Website Repository</a>",
+    web: "Website version: 1.0.2    <a href=\"https://github.com/Limeboy0603/Limeboy0603.github.io\">Website Repository</a>",
     home: hometext
 };
 
