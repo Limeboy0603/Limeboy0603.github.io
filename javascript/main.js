@@ -19,17 +19,17 @@ var infotext=
 "<li>KTaNE modded module: Minecraft Parody <a href=\"https://github.com/Limeboy0603/ktaneMinecraftParody-master\" target=\"_blank\">GitHub</a></li></ul>"+
 "My Education:<br><ul>"+
 "<li>2015-2021: Po Leung Kuk Laws Foundation College. Electives: Physics, Chemistry, Information and Communication Technology, Mathematics Module 2 (Algebra and Calculus).</li>"+
-"<li>2021-2022: Year 1 in City University of Hong Kong, Major in Computer Science. GPA: 3.62 (Achieved Dean's List in Semester B)</li></ul>"+
+"<li>2021-present: Year 1 in City University of Hong Kong, Major in Computer Science. GPA: 3.59 (Achieved Dean's List in Semester B)</li></ul>"+
 "My Academic Achievements: (note: all achievements on or before academic year 2020-2021 are achieved during secondary school education)<br><ul>"+
 "<li>2018-2019 Hong Kong & Macao Mathematical Olympiad Open Contest: Gold Award</li>"+
 "<li>2018-2019 VTC STEM Challenge Cup 2019: STEM Innovation Award</li>"+
 "<li>2018-2019 The Hong Kong Polytechnic University Secondary School Mathematics and Science Competition: Credit in Mathematics</li>"+
 "<li>2019-2020 Asia International Mathematical Olympiad Open Contest: Silver Award</li>"+
 "<li>2020-2021 Hong Kong Olympiad in Informatics: Silver Award</li>"+
-"<li>2022: Entered HK TECH TIGER of City University of Hong Kong.</li>"
-"</ul>"+
+"<li>2022: Entered HK TECH TIGER of City University of Hong Kong.</li></ul>"+
 "Job Experience:<br><ul>"+
-"<li>July-Aug 2021: Data Entry Operator, Toppan Forms (HK) Limited </li><br>"+
+"<li>July-Aug 2021: Data Entry Operator, Toppan Forms (HK) Limited </li>"+
+"<li>July-Aug 2022: Summer Intern in Administrative Department, LPC Insurance Brokers Limited</li>"+
 "<li>Sep-Dec 2022: PALSI Leader of course MA1200 Calculus and Basic Linear Algebra, City University of Hong Kong. (Job description: teaching year 1 students Mathematics to help them get better grades)</li>";
 
 const text = {
