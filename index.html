@@ -1,24 +1,127 @@
-<!--There is nothing to see here, comrade-->
 <!DOCTYPE html>
 
 <html lang="en">
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Limeboy0603's personal webpage">
+    <meta name="description" content="Limeboy0603's personal webpage directory.">
     <meta name="author" content="Limeboy0603">
-    <script type="text/javascript" src="javascript/main.js"></script>
-    <link rel="stylesheet" href="styles/main.css" type="text/css" media="all">
-    <title>Not a console</title>
+    <title>Limeboy0603's Personal Webpage</title>
+    <style>
+        .center {
+            text-align: center;
+        }
+        table, th, td {
+            border: 1px solid black;
+            margin: 0px auto;
+        }
+    </style>
 </head>
 
-<body onload="main();">
-    <div id="command-input">
-        ><input type="text" value="" autofocus>
-    </div>
-    <div id="console-output">
+<body>
+    <h1 class="center">This is Limeboy0603's personal webpage directory.</h1>
+    <h2 class="center"><i>And yes, this is in plain HTML, CSS and vanilla JS.</i></h2>
+    <p class="center">
+        This page serves as a comparison, so you can see how UGLY this thing is and compare it with some other projects listed below.
+    </p>
+    <p class="center">
+        I am not even going to put any images here. <br>
+        "This entire page weighs less than the gradient-meshed facebook logo." - Some German Developer who wrote <a href="https://motherfuckingwebsite.com/">Motherfucking Website</a>
+    </p>
 
-    </div>
+    <p class="center">
+        <a href="https://github.com/Limeboy0603">GitHub Profile</a>
+        <br>
+        <i>Oh and, I'm not linking my Linkedin profile here for privacy reasons. You'll only obtain the link if you have my CV.</i>
+    </p>
+
+    <br>
+    <h2 class="center">Regular Project List</h2>
+    <table>
+        <tr>
+            <th>Title</th>
+            <th>Stack</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Limeboy0603/FYP-Public">Sign Language Recognition and Translation using<br>Motion Tracking and Deep Learning</a></td>
+            <td>
+                <ul>
+                    <li>Python</li>
+                    <li>OpenCV</li>
+                    <li>PyTorch</li>
+                    <li>Mediapipe</li>
+                    <li>Qt</li>
+                </ul>
+            </td>
+            <td>
+                This was my FYP project for my bachelor's degree in Computer Science.<br>
+                It aims to continuously recognize Sign Language and translate them into a single sentence. It involves 2 different modules.
+                <ul>
+                    <li>A LSTM model for sign language recognition</li>
+                    <li>A language model for translation from glosses to sentences.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://limeboy0603.github.io/personal-webpage-v1/">My first personal webpage</a></td>
+            <td>
+                <ul>
+                    <li>HTML5</li>
+                    <li>CSS</li>
+                    <li>Vanilla JS</li>
+                </ul>
+            </td>
+            <td>
+                I did this as a "joke" personal webpage. <br>
+                The webpage is themed around a Matrix-like terminal, where different sections are accessed via a command line, which in reality is just a basic input tag.
+            </td>
+        </tr>
+    </table>
+
+    <h2 class="center">Video Games Project List</h2>
+    <p class="center">
+        This section lists some video game projects I've worked on while younger.<br>
+        Note: "KTaNE" refers to <a href="https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/">Keep Talking and Nobody Explodes</a>
+    </p>
+    <table class="center">
+        <tr>
+            <th>Title</th>
+            <th>Stack</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>[COLLAB] Traditional Chinese translation for <a href="https://github.com/shedaniel/RoughlyEnoughItems/tree/19.x-1.21.5">Roughly Enough Items</a></td>
+            <td>N/A</td>
+            <td>Look at my flashy username <a href="https://github.com/shedaniel/RoughlyEnoughItems/blob/3224ded226541e1dbd7809cba218e3c0c8c4144b/fabric/src/main/resources/fabric.mod.json#L65">here</a>!</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Limeboy0603/ktaneOsu-master">KTaNE osu! Module</a></td>
+            <td>Unity</td>
+            <td>
+                Modded module for KTaNE. Defuser need to tell the Expert a beatmap name and obtain a description of the background image.<br>
+                <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2762358242">Steam Workshop Entry</a> | 
+                <a href="https://ktane.timwi.de/HTML/osu!.html">Expert Manual</a> 
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Limeboy0603/ktaneMinecraftCipher-master">KTaNE Minecraft Cipher Module</a></td>
+            <td>Unity</td>
+            <td>
+                Modded module for KTaNE. A cipher module but with text encoded in <a href="https://minecraft.wiki/w/Standard_Galactic_Alphabet">Standard Galactic Alphabet</a><br>
+                <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2257451274">Steam Workshop Entry</a> | 
+                <a href="https://ktane.timwi.de/HTML/Minecraft%20Cipher.html">Expert Manual</a> 
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Limeboy0603/ktaneMinecraftParody-master">KTaNE Minecraft Parody Module</a></td>
+            <td>Unity</td>
+            <td>
+                Modded module for KTaNE. Based off an internet trend where people sings Minecraft parodies on Discord.<br>
+                <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2257447273">Steam Workshop Entry</a> | 
+                <a href="https://ktane.timwi.de/HTML/Minecraft%20Parody.html">Expert Manual</a> 
+            </td>
+        </tr>
 </body>
 
 </html>
