@@ -161,6 +161,7 @@ h2 {
 
 .project-links a {
   font-size: 0.9rem;
+  text-decoration: underline;
 }
 
 .reveal {
